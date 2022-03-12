@@ -1,0 +1,25 @@
+{
+  "name": "digitalocean-htc-node",
+  "version": "1.0.0",
+  "description": "tutorial digital ocean",
+  "main": "arguments.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andersonvlidio/digitalOcean-HTC-node.git"
+  },
+  "author": "Anderson Lidio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andersonvlidio/digitalOcean-HTC-node/issues"
+  },
+  "homepage": "https://github.com/Andersonvlidio/digitalOcean-HTC-node#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  }
+}
