@@ -1,4 +1,4 @@
-// Criando um modulo para usar globalmente e em outros projetos. 
+// Criando um modulo para usar globalmente, e em outros projetos. 
 // tutorial https://www.digitalocean.com/community/tutorials/how-to-create-a-node-js-module
 
 

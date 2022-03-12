@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/Andersonvlidio/digitalOcean-HTC-node#readme",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "eslint": "^6.0.0"
-  }
+  },
+  "keywords": []
 }
